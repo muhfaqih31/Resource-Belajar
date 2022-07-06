@@ -1,0 +1,3 @@
+https://github.com/reveng007/SGDE-2012/tree/main/GNU_debugger
+
+https://github.com/h3ll0clar1c3/SGDE/blob/master/Notes.txt
